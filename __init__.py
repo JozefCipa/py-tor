@@ -1,0 +1,6 @@
+__author__ = "Jozef Cipa"
+__copyright__ = "Copyright 2017-2018"
+__version__ = "1.0.0"
+__maintainer__ = "Jozef Cipa"
+__email__ = "cipajozef@gmail.com"
+__status__ = "Production"
